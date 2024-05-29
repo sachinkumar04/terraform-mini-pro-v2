@@ -1,31 +1,5 @@
-
-Search
-Write
-Sign up
-
-Sign in
-
-
-
-
 How To Create a Load Balancer, Instances, and A Hosted Domain Name In Route 53 Using Terraform
-Nwokolo Emmanuel
-Nwokolo Emmanuel
 
-·
-Follow
-
-17 min read
-·
-Jan 25, 2023
-81
-
-
-3
-
-
-
-GOALS:
 
 How to create and configure a vpc, subnet, route table, etc. with terraform
 How to create an Ec2 instance and a load balancer with terraform.
@@ -75,6 +49,8 @@ the above part that is circled helps us to create everything we will be doing on
 in this case, I picked London. you might want to change the region or change your location on your AWS console to London.
 
 in the main.tf file you input this script inside.
+
+
 
 provider "aws" {
   region = "eu-west-2"
