@@ -1,6 +1,27 @@
 
-How To Create a Load Balancer, Instances, and A Hosted Domain Name In Route 53 Using Terraform
+Search
+Write
+Sign up
 
+Sign in
+
+
+
+
+How To Create a Load Balancer, Instances, and A Hosted Domain Name In Route 53 Using Terraform
+Nwokolo Emmanuel
+Nwokolo Emmanuel
+
+·
+Follow
+
+17 min read
+·
+Jan 25, 2023
+81
+
+
+3
 
 
 
@@ -720,3 +741,177 @@ How to Configure a Service In A Private Server Using BASH script & Creating A Lo
 How to Configure A Service In A Private Server Using Ansible & Creating A Load Balancer In AWS
 NOTE: if you have any questions or want to add to this blog. you can message me through E-mail.
 
+I reply faster to people that are subscribed to my newsletter!!
+
+Conclusion
+If you loved this blog post give it a like, comment, and don’t forget to click on the follow button.
+
+And if you would love to get an update on the two interesting blogs I will be posting this week then you should sign up for my newsletter right here!!
+
+Terraform
+AWS
+Cloud Computing
+Infrastructure As Code
+Cloud
+81
+
+
+3
+
+
+Nwokolo Emmanuel
+Written by Nwokolo Emmanuel
+244 Followers
+I am a Cloud Engineer, I love sharing easy solutions to problems that I found difficult. Interested in Open Source | twitter: twitter.com/CloudTopG
+
+Follow
+
+More from Nwokolo Emmanuel
+How To Install and Set Up Laravel, Nginx, and MySQL With Docker Compose on Ubuntu 20.04
+Nwokolo Emmanuel
+Nwokolo Emmanuel
+
+How To Install and Set Up Laravel, Nginx, and MySQL With Docker Compose on Ubuntu 20.04
+Learn the 7 easy steps to install and set up laravel with Docker-compose on ubuntu 20.04
+12 min read
+·
+Feb 10, 2023
+223
+
+2
+
+How To Install Prometheus and Grafana On Your Cluster Using Terraform and Helm.
+Nwokolo Emmanuel
+Nwokolo Emmanuel
+
+How To Install Prometheus and Grafana On Your Cluster Using Terraform and Helm.
+Learn the simple steps to installing prometheus and grafana on your cluster using terraform!
+7 min read
+·
+Apr 25, 2023
+60
+
+2
+
+Discover The 3 Steps To Creating An IAM User With Access & Secret Access keys For Terraform Scripts
+Nwokolo Emmanuel
+Nwokolo Emmanuel
+
+Discover The 3 Steps To Creating An IAM User With Access & Secret Access keys For Terraform Scripts
+In this blog you will discover proven methods that help you set up an environment that is comfortable for terraform to run command to AWS
+7 min read
+·
+Jan 25, 2023
+71
+
+7 Easy Steps to Configure A Private Nginx Server Using Ansible & Creating A Load Balancer In AWS
+Nwokolo Emmanuel
+Nwokolo Emmanuel
+
+7 Easy Steps to Configure A Private Nginx Server Using Ansible & Creating A Load Balancer In AWS
+The only blog you will ever need to understand the configuration of an Nginx server using ansible, bastion host and a load balancer!
+16 min read
+·
+Jan 5, 2023
+125
+
+3
+
+See all from Nwokolo Emmanuel
+Recommended from Medium
+Three flavors of Terraform iteration
+Marc Dougherty
+Marc Dougherty
+
+Three flavors of Terraform iteration
+I was writing a Terraform module to create a Google Cloud Load Balancer with an arbitrary set of GKE services as backends. To achieve this…
+4 min read
+·
+May 22, 2024
+3
+
+GitOps on AWS EKS: Building a CI/CD Pipeline with Jenkins & ArgoCD
+Divyam Sharma
+Divyam Sharma
+
+GitOps on AWS EKS: Building a CI/CD Pipeline with Jenkins & ArgoCD
+Deployment of Microservices application with EFK stack on Amazon EKS, leveraging the power of Jenkins, ArgoCD, and Helm.
+8 min read
+·
+Mar 22, 2024
+10
+
+Lists
+
+
+
+Natural Language Processing
+1477 stories
+·
+989 saves
+Auto Scaling with CloudWatch Scaling Alarms using Terraform
+Mattiamazzari
+Mattiamazzari
+
+Auto Scaling with CloudWatch Scaling Alarms using Terraform
+Auto Scaling is an effective way to improve availability and reliability of applications. You can increase the number of EC2 instances when…
+12 min read
+·
+Apr 14, 2024
+7
+
+Getting Started with Atlantis on GKE for Terraform Automation with GCP Workload Identity
+Wade Xu
+Wade Xu
+
+Getting Started with Atlantis on GKE for Terraform Automation with GCP Workload Identity
+In this comprehensive guide, we’ll take you on a journey to set up Atlantis on Google Kubernetes Engine (GKE) with a focus on Terraform…
+6 min read
+·
+Jan 2, 2024
+2
+
+1
+
+Creating a Terraform Module for S3 Remote Backend with DynamoDB State Locking
+Deniz Yilmaz
+Deniz Yilmaz
+
+Creating a Terraform Module for S3 Remote Backend with DynamoDB State Locking
+Configuring Amazon S3 for State File Storage and DynamoDB for Reliable State Locking
+6 min read
+·
+Jan 29, 2024
+7
+
+Terraform S3 Backend Best Practices (revised)
+Jason Bornhoft
+Jason Bornhoft
+
+Terraform S3 Backend Best Practices (revised)
+How to set up a secure Terraform backend using AWS S3 + DynamoDB
+6 min read
+·
+Nov 30, 2023
+8
+
+See more recommendations
+Help
+
+Status
+
+About
+
+Careers
+
+Press
+
+Blog
+
+Privacy
+
+Terms
+
+Text to speech
+
+Teams
